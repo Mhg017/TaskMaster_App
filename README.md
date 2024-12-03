@@ -1,4 +1,4 @@
-## Task Manager App
+## TaskMaster_App
 
 ![Image Description](images/banner.png)
 
